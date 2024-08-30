@@ -3,10 +3,6 @@
 #include <algorithm>
 #include "main.h"
 
-/*
- * Command line arguments:
- * [target] [operands]
- */
 int main(int argc, const char **argv)
 {
     std::vector<unsigned> operands = {13, 19, 29, 43, 47, 53, 61, 79};
